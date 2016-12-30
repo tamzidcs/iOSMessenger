@@ -20,6 +20,34 @@
                ReferencedContainer = "container:iOS Messenger.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "29CC5F541E14C7E40082467B"
+               BuildableName = "iOS MessengerTests.xctest"
+               BlueprintName = "iOS MessengerTests"
+               ReferencedContainer = "container:iOS Messenger.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "29CC5F5F1E14C7E40082467B"
+               BuildableName = "iOS MessengerUITests.xctest"
+               BlueprintName = "iOS MessengerUITests"
+               ReferencedContainer = "container:iOS Messenger.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -28,26 +56,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "29CC5F541E14C7E40082467B"
-               BuildableName = "iOS MessengerTests.xctest"
-               BlueprintName = "iOS MessengerTests"
-               ReferencedContainer = "container:iOS Messenger.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "29CC5F5F1E14C7E40082467B"
-               BuildableName = "iOS MessengerUITests.xctest"
-               BlueprintName = "iOS MessengerUITests"
-               ReferencedContainer = "container:iOS Messenger.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
